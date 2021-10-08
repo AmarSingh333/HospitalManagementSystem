@@ -1,0 +1,3 @@
+1,Dr.A.P. shiha,10/01/1985,Child_Specialist 
+2,Dr.A.Singh,10/06/1999,General_Physician
+3,Dr.D.K. Gupta,09/07/1975,Orthopaedic
